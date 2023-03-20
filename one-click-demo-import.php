@@ -103,6 +103,7 @@ class OCDI_Plugin {
 			define( 'PT_OCDI_VERSION', $plugin_data['Version'] );
 		}
 	}
+		System.out.println("swwwwww");
 }
 
 // Instantiate the plugin class.
